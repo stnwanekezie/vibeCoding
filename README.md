@@ -24,7 +24,7 @@ git clone https://github.com/stnwanekezie/vibeCoding.git
 
 2. Open Chrome and navigate to `chrome://extensions/`
 3. Enable "Developer mode" in the top right corner
-4. Click "Load unpacked" and select the extension directory
+4. Click "Load unpacked" and select the extension source directory
 
 ## Setup
 
